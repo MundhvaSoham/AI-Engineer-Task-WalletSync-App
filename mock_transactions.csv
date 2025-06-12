@@ -1,0 +1,1001 @@
+date,amount,category,type,description
+2024-02-15,419.8,entertainment,expense,movie
+2023-01-15,166.43,health,expense,gym
+2024-03-07,72.62,entertainment,expense,movie
+2024-05-23,164.64,food,expense,cafe
+2023-01-01,120.42,other,expense,miscellaneous
+2023-02-17,2380.93,gift,income,wedding gift
+2023-10-29,278.8,shopping,expense,electronics
+2024-04-06,1693.72,investment,income,crypto gain
+2024-04-04,48.04,entertainment,expense,subscription
+2023-12-26,389.72,health,expense,gym
+2023-08-07,423.62,transport,expense,taxi
+2023-07-13,192.28,bills,expense,electricity
+2023-12-16,471.28,food,expense,groceries
+2023-04-25,118.6,shopping,expense,online shopping
+2023-07-01,469.52,transport,expense,taxi
+2024-05-24,4311.88,gift,income,wedding gift
+2023-03-31,3886.63,salary,income,bonus
+2023-05-22,4994.77,salary,income,bonus
+2023-03-21,3358.51,gift,income,birthday gift
+2023-02-20,478.48,shopping,expense,online shopping
+2023-04-13,3740.25,salary,income,bonus
+2023-01-21,171.72,entertainment,expense,games
+2023-09-20,3782.25,other,income,miscellaneous
+2024-05-07,453.82,food,expense,snacks
+2023-10-07,3664.88,gift,income,wedding gift
+2024-02-15,389.33,food,expense,snacks
+2024-05-08,151.42,health,expense,pharmacy
+2024-02-29,4768.76,salary,income,monthly salary
+2023-06-05,345.62,entertainment,expense,subscription
+2024-05-26,149.87,shopping,expense,clothes
+2023-04-19,294.05,bills,expense,internet
+2023-01-01,4835.03,gift,income,birthday gift
+2023-05-22,27.93,health,expense,gym
+2023-07-13,2208.76,gift,income,birthday gift
+2024-02-17,3311.51,salary,income,monthly salary
+2024-02-13,384.47,bills,expense,internet
+2023-02-15,263.41,shopping,expense,clothes
+2024-02-24,324.43,transport,expense,train
+2023-03-20,235.58,transport,expense,taxi
+2023-02-27,395.75,transport,expense,fuel
+2024-02-05,429.69,entertainment,expense,movie
+2023-10-01,348.31,transport,expense,bus
+2023-07-28,368.9,health,expense,doctor
+2023-01-30,238.78,bills,expense,water
+2023-06-03,2181.43,salary,income,bonus
+2023-09-27,416.68,health,expense,doctor
+2023-01-02,472.23,shopping,expense,clothes
+2023-03-18,175.71,transport,expense,train
+2024-04-25,3206.12,salary,income,monthly salary
+2023-02-16,3489.18,investment,income,stock dividend
+2023-08-18,231.49,shopping,expense,electronics
+2023-10-17,47.95,entertainment,expense,concert
+2023-04-15,146.49,bills,expense,water
+2023-02-10,44.36,food,expense,cafe
+2023-04-19,291.77,transport,expense,bus
+2023-05-13,290.32,transport,expense,bus
+2023-04-16,4228.77,other,income,miscellaneous
+2023-08-19,1693.67,investment,income,stock dividend
+2023-12-03,30.11,bills,expense,internet
+2023-02-11,351.43,health,expense,gym
+2023-11-17,3453.0,salary,income,monthly salary
+2023-09-06,4538.29,gift,income,wedding gift
+2024-04-20,302.74,other,expense,miscellaneous
+2024-03-20,151.96,shopping,expense,clothes
+2024-02-25,405.08,shopping,expense,online shopping
+2024-02-16,217.3,other,expense,miscellaneous
+2024-01-21,81.32,food,expense,groceries
+2024-04-21,377.8,entertainment,expense,games
+2024-03-08,4580.77,investment,income,crypto gain
+2023-02-23,1462.18,investment,income,stock dividend
+2023-02-07,380.05,shopping,expense,clothes
+2023-04-04,4204.7,investment,income,stock dividend
+2024-02-20,221.88,other,expense,miscellaneous
+2023-09-27,149.78,entertainment,expense,games
+2023-08-04,465.73,food,expense,groceries
+2024-02-29,2976.36,salary,income,monthly salary
+2024-04-06,2041.7,investment,income,crypto gain
+2023-10-13,4120.76,other,income,miscellaneous
+2024-05-18,4457.64,investment,income,stock dividend
+2023-02-03,2727.29,salary,income,bonus
+2023-10-12,377.49,food,expense,snacks
+2023-05-11,306.43,shopping,expense,electronics
+2023-04-01,245.43,transport,expense,train
+2023-12-14,441.48,health,expense,doctor
+2023-12-07,416.11,transport,expense,fuel
+2023-11-20,272.4,shopping,expense,clothes
+2024-01-09,4507.63,investment,income,crypto gain
+2023-10-08,200.87,bills,expense,rent
+2023-06-30,1450.55,salary,income,bonus
+2024-03-23,376.17,other,expense,miscellaneous
+2023-11-13,335.89,transport,expense,taxi
+2023-06-29,254.79,health,expense,pharmacy
+2023-11-24,208.5,food,expense,restaurant
+2023-02-19,250.69,bills,expense,electricity
+2024-04-30,354.03,health,expense,gym
+2023-02-03,2454.66,salary,income,bonus
+2024-05-29,4948.47,salary,income,monthly salary
+2023-10-30,4163.42,investment,income,crypto gain
+2023-04-28,197.26,transport,expense,fuel
+2023-09-22,3483.17,gift,income,wedding gift
+2023-09-24,311.05,entertainment,expense,movie
+2023-02-06,348.19,transport,expense,fuel
+2023-08-07,34.42,shopping,expense,clothes
+2023-04-15,4336.71,gift,income,wedding gift
+2023-06-04,93.89,entertainment,expense,concert
+2023-10-08,476.67,bills,expense,electricity
+2024-01-08,190.89,bills,expense,water
+2023-07-01,434.42,health,expense,pharmacy
+2023-06-11,404.69,other,expense,miscellaneous
+2023-03-17,4638.56,investment,income,stock dividend
+2023-05-28,1737.32,other,income,miscellaneous
+2024-04-09,2276.17,investment,income,stock dividend
+2023-08-01,2570.08,investment,income,crypto gain
+2024-01-21,29.3,transport,expense,fuel
+2024-03-04,1030.58,salary,income,monthly salary
+2024-03-23,216.52,shopping,expense,electronics
+2023-12-31,167.45,health,expense,gym
+2023-07-02,4930.04,investment,income,crypto gain
+2023-01-02,362.45,other,expense,miscellaneous
+2023-12-23,193.59,transport,expense,bus
+2023-05-24,1667.11,other,income,miscellaneous
+2024-01-07,261.64,shopping,expense,clothes
+2023-09-16,4520.64,investment,income,stock dividend
+2024-04-25,489.07,transport,expense,fuel
+2024-02-21,240.12,food,expense,restaurant
+2023-08-26,384.29,food,expense,cafe
+2024-03-29,228.43,entertainment,expense,concert
+2024-01-29,4386.02,gift,income,birthday gift
+2024-04-27,83.78,entertainment,expense,concert
+2023-01-10,3285.13,salary,income,monthly salary
+2023-09-21,242.57,shopping,expense,electronics
+2023-01-25,4127.76,investment,income,stock dividend
+2023-09-30,150.61,health,expense,gym
+2023-02-27,3946.81,gift,income,wedding gift
+2023-10-16,64.98,entertainment,expense,games
+2024-02-12,272.69,health,expense,pharmacy
+2023-12-03,236.1,bills,expense,rent
+2023-11-10,22.43,food,expense,restaurant
+2023-01-24,260.69,health,expense,pharmacy
+2023-11-09,1926.54,gift,income,birthday gift
+2023-09-26,310.03,bills,expense,electricity
+2023-08-25,241.7,bills,expense,water
+2023-05-11,463.13,entertainment,expense,subscription
+2024-04-02,290.55,health,expense,pharmacy
+2024-01-13,49.28,entertainment,expense,concert
+2023-12-17,224.26,entertainment,expense,movie
+2024-04-29,135.62,shopping,expense,online shopping
+2024-05-20,1579.49,investment,income,crypto gain
+2024-05-07,442.06,entertainment,expense,movie
+2023-08-03,380.53,shopping,expense,electronics
+2024-04-11,1541.19,salary,income,bonus
+2023-11-12,248.94,bills,expense,water
+2023-04-18,3040.17,other,income,miscellaneous
+2024-03-12,143.42,entertainment,expense,games
+2024-02-04,215.29,health,expense,pharmacy
+2024-04-27,3293.19,investment,income,crypto gain
+2023-03-24,377.98,entertainment,expense,subscription
+2023-05-17,446.14,health,expense,doctor
+2023-01-25,3284.38,salary,income,monthly salary
+2023-10-08,104.57,transport,expense,bus
+2023-03-05,2730.76,investment,income,crypto gain
+2024-03-11,246.66,other,expense,miscellaneous
+2023-03-28,30.34,entertainment,expense,concert
+2023-04-22,275.67,entertainment,expense,concert
+2023-10-31,395.8,food,expense,groceries
+2023-03-09,348.27,shopping,expense,electronics
+2023-03-08,3378.99,gift,income,wedding gift
+2024-05-17,271.01,bills,expense,water
+2024-05-07,187.31,shopping,expense,electronics
+2024-02-10,230.82,transport,expense,taxi
+2023-12-14,2958.53,other,income,miscellaneous
+2023-06-25,208.8,food,expense,groceries
+2023-05-11,262.44,health,expense,gym
+2023-01-03,140.01,entertainment,expense,concert
+2024-01-23,2940.77,gift,income,wedding gift
+2023-01-11,128.53,bills,expense,electricity
+2023-11-12,3153.87,other,income,miscellaneous
+2024-03-28,367.41,shopping,expense,online shopping
+2023-12-08,171.78,transport,expense,fuel
+2023-09-06,331.78,food,expense,restaurant
+2024-05-27,297.57,food,expense,cafe
+2023-09-06,182.93,other,expense,miscellaneous
+2023-04-16,15.78,food,expense,snacks
+2023-07-23,18.44,transport,expense,taxi
+2024-04-24,4834.08,investment,income,stock dividend
+2023-04-04,209.26,shopping,expense,electronics
+2023-03-08,4394.11,salary,income,bonus
+2023-02-08,3985.16,other,income,miscellaneous
+2023-09-07,343.34,shopping,expense,clothes
+2023-06-18,306.71,shopping,expense,online shopping
+2024-03-21,333.22,other,expense,miscellaneous
+2023-02-28,279.56,shopping,expense,online shopping
+2023-06-04,236.49,entertainment,expense,subscription
+2023-04-07,233.6,food,expense,restaurant
+2023-10-04,489.73,food,expense,restaurant
+2023-06-17,480.45,health,expense,pharmacy
+2024-05-12,2331.62,gift,income,wedding gift
+2024-01-02,3428.9,investment,income,crypto gain
+2024-02-01,1396.9,other,income,miscellaneous
+2023-12-22,4111.87,gift,income,wedding gift
+2024-01-07,2036.83,gift,income,wedding gift
+2023-06-26,342.17,health,expense,gym
+2023-04-04,367.42,bills,expense,electricity
+2023-12-16,2876.14,gift,income,wedding gift
+2024-05-31,4186.69,investment,income,stock dividend
+2023-07-23,146.0,health,expense,doctor
+2023-04-30,350.75,transport,expense,taxi
+2024-01-16,136.12,health,expense,pharmacy
+2023-05-30,484.34,shopping,expense,clothes
+2024-03-31,415.87,health,expense,pharmacy
+2023-02-24,237.91,entertainment,expense,subscription
+2023-12-07,236.93,entertainment,expense,subscription
+2024-02-20,42.63,food,expense,restaurant
+2023-07-23,446.31,food,expense,cafe
+2023-05-04,488.56,transport,expense,taxi
+2023-06-10,492.51,shopping,expense,online shopping
+2023-04-08,353.63,transport,expense,fuel
+2023-12-08,105.27,health,expense,doctor
+2023-03-27,1257.78,other,income,miscellaneous
+2023-01-06,1855.87,investment,income,crypto gain
+2023-01-21,230.94,shopping,expense,online shopping
+2023-01-31,183.4,transport,expense,taxi
+2024-03-21,148.66,health,expense,pharmacy
+2024-03-19,181.94,transport,expense,bus
+2023-10-05,2950.0,investment,income,crypto gain
+2024-04-10,2344.45,investment,income,crypto gain
+2024-01-11,157.7,shopping,expense,online shopping
+2023-05-28,1647.67,gift,income,birthday gift
+2023-02-15,1438.13,salary,income,bonus
+2023-05-22,333.5,bills,expense,internet
+2023-09-18,10.48,shopping,expense,electronics
+2024-01-11,152.68,shopping,expense,electronics
+2024-04-27,351.66,entertainment,expense,concert
+2023-08-19,432.96,food,expense,restaurant
+2024-05-28,149.98,bills,expense,electricity
+2024-04-27,198.81,bills,expense,electricity
+2023-11-18,1182.74,salary,income,monthly salary
+2024-01-25,223.35,bills,expense,internet
+2023-06-22,455.34,shopping,expense,online shopping
+2023-05-14,3099.08,gift,income,birthday gift
+2023-03-30,249.35,bills,expense,rent
+2024-04-14,215.27,food,expense,snacks
+2024-05-08,4588.5,investment,income,stock dividend
+2023-02-03,4861.98,investment,income,stock dividend
+2024-01-12,1703.81,salary,income,monthly salary
+2023-11-07,163.39,health,expense,pharmacy
+2023-11-26,161.08,health,expense,gym
+2024-01-07,45.49,other,expense,miscellaneous
+2023-10-28,476.59,bills,expense,internet
+2023-05-29,4962.46,gift,income,wedding gift
+2023-06-23,492.71,health,expense,gym
+2023-08-09,456.18,transport,expense,bus
+2023-03-31,2116.16,investment,income,crypto gain
+2023-04-06,458.68,entertainment,expense,subscription
+2023-10-28,2488.65,gift,income,birthday gift
+2023-07-20,346.68,other,expense,miscellaneous
+2023-09-12,4973.86,investment,income,stock dividend
+2023-06-14,229.55,food,expense,snacks
+2023-09-16,4997.39,salary,income,monthly salary
+2024-04-28,65.96,bills,expense,rent
+2023-09-26,189.4,entertainment,expense,movie
+2024-02-09,324.9,shopping,expense,electronics
+2023-03-29,197.45,transport,expense,fuel
+2023-10-11,320.04,shopping,expense,electronics
+2024-05-01,368.92,health,expense,doctor
+2024-04-10,472.12,shopping,expense,clothes
+2023-08-13,4344.5,salary,income,monthly salary
+2023-09-17,4468.4,salary,income,monthly salary
+2023-03-19,4672.22,salary,income,monthly salary
+2023-05-22,1960.28,salary,income,monthly salary
+2023-05-16,4492.82,investment,income,stock dividend
+2023-10-28,92.66,food,expense,groceries
+2023-06-12,245.42,entertainment,expense,concert
+2024-01-02,373.94,bills,expense,rent
+2024-05-11,3403.01,gift,income,birthday gift
+2023-09-01,3512.32,investment,income,stock dividend
+2023-12-04,4110.91,investment,income,stock dividend
+2024-05-11,72.32,bills,expense,internet
+2023-05-10,446.04,bills,expense,internet
+2024-05-03,83.45,health,expense,pharmacy
+2023-07-23,488.31,health,expense,gym
+2023-08-14,196.66,entertainment,expense,movie
+2024-03-13,454.48,bills,expense,internet
+2023-01-08,4332.28,gift,income,birthday gift
+2023-07-06,1284.24,salary,income,monthly salary
+2024-02-26,430.26,entertainment,expense,movie
+2023-04-12,4697.32,investment,income,stock dividend
+2023-09-25,1703.0,investment,income,crypto gain
+2023-08-25,2206.74,other,income,miscellaneous
+2023-09-01,108.87,other,expense,miscellaneous
+2023-09-08,284.31,shopping,expense,clothes
+2023-12-14,224.54,food,expense,cafe
+2024-01-13,2756.58,salary,income,monthly salary
+2023-07-16,255.19,transport,expense,train
+2024-02-15,407.28,transport,expense,taxi
+2024-04-19,270.26,health,expense,doctor
+2024-05-12,370.94,bills,expense,electricity
+2024-02-19,323.18,shopping,expense,electronics
+2023-02-07,464.71,shopping,expense,clothes
+2023-06-10,248.51,food,expense,cafe
+2024-05-03,462.27,food,expense,cafe
+2023-05-02,45.01,entertainment,expense,movie
+2024-05-13,3351.14,gift,income,wedding gift
+2023-08-15,107.36,transport,expense,taxi
+2023-08-25,34.65,shopping,expense,electronics
+2023-08-24,4499.55,salary,income,monthly salary
+2024-03-23,88.09,shopping,expense,clothes
+2024-02-19,2878.85,other,income,miscellaneous
+2023-03-30,2387.57,gift,income,birthday gift
+2023-01-16,471.94,bills,expense,electricity
+2023-02-05,2881.75,investment,income,crypto gain
+2023-04-08,3360.66,investment,income,stock dividend
+2023-05-04,204.29,shopping,expense,online shopping
+2024-03-21,436.22,bills,expense,internet
+2023-04-09,3986.17,gift,income,wedding gift
+2023-06-16,152.42,other,expense,miscellaneous
+2023-11-02,147.56,entertainment,expense,movie
+2023-02-15,262.31,food,expense,restaurant
+2023-04-14,69.22,shopping,expense,clothes
+2023-11-19,2094.88,gift,income,birthday gift
+2023-12-10,3561.55,salary,income,bonus
+2024-05-27,3946.06,investment,income,crypto gain
+2023-12-04,275.46,bills,expense,electricity
+2023-02-15,4304.06,salary,income,monthly salary
+2023-07-25,4514.33,gift,income,wedding gift
+2023-09-08,460.95,entertainment,expense,concert
+2023-11-03,1505.31,gift,income,birthday gift
+2023-02-25,326.37,health,expense,doctor
+2023-04-02,2878.37,salary,income,monthly salary
+2023-01-13,66.29,bills,expense,electricity
+2023-06-21,3257.77,salary,income,monthly salary
+2023-07-29,1293.64,salary,income,monthly salary
+2023-04-07,380.22,transport,expense,fuel
+2023-08-25,187.84,food,expense,restaurant
+2023-01-07,1857.92,other,income,miscellaneous
+2023-07-17,4531.81,other,income,miscellaneous
+2023-06-26,438.66,entertainment,expense,subscription
+2023-03-30,139.0,transport,expense,taxi
+2023-09-04,472.14,food,expense,snacks
+2023-10-19,220.1,bills,expense,rent
+2024-03-07,447.87,transport,expense,bus
+2024-03-06,270.86,health,expense,pharmacy
+2023-03-29,3214.96,investment,income,crypto gain
+2023-04-17,409.52,entertainment,expense,concert
+2024-05-13,448.82,shopping,expense,online shopping
+2024-02-06,306.05,other,expense,miscellaneous
+2024-05-09,2856.56,investment,income,crypto gain
+2024-02-24,279.11,transport,expense,taxi
+2023-10-09,3490.65,investment,income,stock dividend
+2023-04-16,1668.45,gift,income,birthday gift
+2023-07-18,442.4,entertainment,expense,movie
+2024-01-16,25.72,food,expense,snacks
+2023-01-19,2901.12,investment,income,crypto gain
+2023-08-05,380.79,shopping,expense,electronics
+2023-06-19,49.28,other,expense,miscellaneous
+2023-09-20,305.67,transport,expense,fuel
+2023-02-02,50.7,shopping,expense,electronics
+2023-10-25,1154.25,investment,income,crypto gain
+2023-08-21,30.63,shopping,expense,clothes
+2024-03-17,46.43,entertainment,expense,movie
+2023-01-05,3075.54,gift,income,wedding gift
+2023-08-03,332.27,food,expense,restaurant
+2023-03-18,2287.68,salary,income,bonus
+2024-01-22,81.49,shopping,expense,clothes
+2024-01-15,187.72,health,expense,pharmacy
+2023-12-24,147.05,shopping,expense,clothes
+2023-10-07,497.84,food,expense,groceries
+2023-03-27,171.69,other,expense,miscellaneous
+2023-12-10,4424.25,investment,income,stock dividend
+2023-02-28,296.78,shopping,expense,clothes
+2023-01-09,344.88,bills,expense,water
+2023-09-01,10.27,health,expense,doctor
+2023-02-09,4446.78,investment,income,stock dividend
+2023-04-18,29.68,food,expense,groceries
+2023-11-24,30.36,health,expense,pharmacy
+2023-01-07,97.35,food,expense,groceries
+2023-02-15,270.37,food,expense,groceries
+2024-04-08,2658.51,investment,income,crypto gain
+2023-04-01,4675.13,investment,income,stock dividend
+2023-04-25,198.45,entertainment,expense,games
+2023-03-30,96.5,bills,expense,electricity
+2023-05-15,364.96,health,expense,doctor
+2023-06-17,290.02,shopping,expense,electronics
+2023-05-05,4937.36,salary,income,monthly salary
+2023-12-16,364.15,entertainment,expense,subscription
+2023-01-27,2476.85,investment,income,crypto gain
+2023-03-18,3384.2,gift,income,birthday gift
+2023-04-21,395.14,bills,expense,electricity
+2024-02-18,498.0,shopping,expense,online shopping
+2024-04-08,3542.81,gift,income,birthday gift
+2023-09-13,276.12,bills,expense,internet
+2024-05-29,186.52,bills,expense,rent
+2024-05-22,301.26,entertainment,expense,games
+2024-01-25,233.58,transport,expense,bus
+2023-12-30,448.11,shopping,expense,clothes
+2024-04-20,1805.62,other,income,miscellaneous
+2024-01-20,3594.02,investment,income,stock dividend
+2024-03-15,143.75,transport,expense,train
+2024-02-01,261.61,bills,expense,internet
+2024-04-14,1478.19,other,income,miscellaneous
+2024-05-19,477.24,bills,expense,electricity
+2023-05-09,88.89,bills,expense,internet
+2023-12-27,282.67,bills,expense,rent
+2023-01-26,197.84,shopping,expense,online shopping
+2024-03-22,3776.58,gift,income,wedding gift
+2023-01-01,257.84,health,expense,doctor
+2023-09-12,277.74,bills,expense,rent
+2023-12-12,4190.32,salary,income,bonus
+2023-07-03,3311.02,investment,income,stock dividend
+2023-07-06,2720.81,investment,income,stock dividend
+2024-05-05,434.24,transport,expense,taxi
+2023-09-04,133.33,shopping,expense,online shopping
+2023-04-27,4931.63,gift,income,birthday gift
+2024-01-06,56.72,food,expense,snacks
+2023-07-03,261.52,shopping,expense,clothes
+2023-01-09,3935.61,salary,income,monthly salary
+2024-04-05,196.14,shopping,expense,electronics
+2023-12-31,230.52,entertainment,expense,games
+2024-05-11,412.78,health,expense,gym
+2023-07-01,3557.48,gift,income,wedding gift
+2024-01-25,332.39,health,expense,gym
+2023-07-25,2511.44,other,income,miscellaneous
+2023-02-21,199.79,shopping,expense,online shopping
+2023-06-07,104.72,food,expense,groceries
+2024-04-03,116.02,shopping,expense,electronics
+2023-03-01,385.92,shopping,expense,electronics
+2024-02-29,2388.79,gift,income,birthday gift
+2024-05-30,389.33,food,expense,cafe
+2024-05-06,2825.37,other,income,miscellaneous
+2023-07-30,2181.16,salary,income,bonus
+2023-03-04,386.25,health,expense,doctor
+2023-03-23,313.75,other,expense,miscellaneous
+2023-05-20,273.28,transport,expense,train
+2024-05-08,194.92,other,expense,miscellaneous
+2023-07-02,3600.98,gift,income,birthday gift
+2023-08-03,488.38,other,expense,miscellaneous
+2023-06-27,427.29,entertainment,expense,games
+2023-01-03,288.52,food,expense,groceries
+2023-01-09,173.66,health,expense,gym
+2023-03-10,183.14,shopping,expense,electronics
+2024-01-21,376.86,shopping,expense,online shopping
+2023-06-23,321.43,shopping,expense,electronics
+2023-11-14,79.91,shopping,expense,electronics
+2024-01-27,211.03,bills,expense,water
+2024-03-14,322.66,food,expense,snacks
+2023-07-23,3397.88,gift,income,birthday gift
+2024-02-22,86.04,shopping,expense,online shopping
+2023-06-22,2408.62,investment,income,stock dividend
+2023-05-11,488.04,entertainment,expense,movie
+2023-09-12,148.92,health,expense,gym
+2023-11-12,134.26,bills,expense,electricity
+2023-11-02,145.6,health,expense,pharmacy
+2023-10-04,2940.62,gift,income,wedding gift
+2023-06-08,467.31,other,expense,miscellaneous
+2024-02-26,57.93,entertainment,expense,subscription
+2023-12-13,370.53,transport,expense,taxi
+2023-01-16,318.8,food,expense,snacks
+2023-01-12,3009.88,investment,income,stock dividend
+2023-04-03,1233.38,gift,income,wedding gift
+2023-03-12,90.1,transport,expense,bus
+2024-04-02,1557.29,salary,income,monthly salary
+2024-01-16,167.97,food,expense,restaurant
+2023-12-20,2093.3,gift,income,wedding gift
+2024-01-31,2666.48,other,income,miscellaneous
+2024-04-25,77.16,transport,expense,fuel
+2023-08-16,3432.3,investment,income,crypto gain
+2023-03-27,2429.44,other,income,miscellaneous
+2024-01-30,461.34,shopping,expense,online shopping
+2023-10-03,59.94,bills,expense,electricity
+2023-08-15,3614.06,investment,income,crypto gain
+2023-10-21,3283.9,investment,income,stock dividend
+2024-03-11,290.82,transport,expense,fuel
+2023-12-01,328.01,transport,expense,fuel
+2023-02-23,1483.55,investment,income,stock dividend
+2023-12-11,419.38,bills,expense,electricity
+2024-04-08,1637.32,salary,income,monthly salary
+2023-08-16,161.03,transport,expense,taxi
+2023-01-03,42.03,entertainment,expense,movie
+2023-03-01,3001.55,other,income,miscellaneous
+2024-01-04,492.42,other,expense,miscellaneous
+2023-11-01,4680.14,investment,income,crypto gain
+2023-12-14,171.77,bills,expense,rent
+2024-02-25,450.0,health,expense,doctor
+2023-04-06,286.56,health,expense,doctor
+2023-05-18,110.8,food,expense,restaurant
+2023-08-13,1406.91,other,income,miscellaneous
+2023-02-06,346.61,food,expense,groceries
+2023-10-16,4954.63,salary,income,bonus
+2023-02-04,241.17,health,expense,pharmacy
+2023-10-26,213.49,transport,expense,train
+2024-04-02,3530.36,investment,income,crypto gain
+2023-07-08,449.32,health,expense,doctor
+2024-01-27,426.92,transport,expense,bus
+2024-05-03,4133.74,salary,income,bonus
+2024-03-27,115.24,food,expense,groceries
+2023-04-01,4275.94,investment,income,crypto gain
+2024-01-25,4731.32,gift,income,wedding gift
+2023-01-29,342.34,transport,expense,taxi
+2023-03-29,2462.99,investment,income,crypto gain
+2024-02-22,3451.3,investment,income,stock dividend
+2023-12-31,270.12,health,expense,pharmacy
+2024-02-07,20.51,health,expense,doctor
+2023-06-14,124.03,entertainment,expense,concert
+2023-11-27,287.0,other,expense,miscellaneous
+2023-03-06,1739.19,salary,income,bonus
+2023-02-27,4891.36,gift,income,wedding gift
+2023-02-07,55.62,bills,expense,internet
+2023-07-21,304.03,transport,expense,fuel
+2023-01-13,3403.32,salary,income,monthly salary
+2023-02-15,231.94,entertainment,expense,games
+2024-02-07,1853.36,investment,income,stock dividend
+2023-03-02,3106.32,salary,income,monthly salary
+2023-05-02,2801.63,investment,income,crypto gain
+2024-04-06,140.13,entertainment,expense,subscription
+2023-01-05,200.55,entertainment,expense,concert
+2024-03-21,3963.67,other,income,miscellaneous
+2024-01-13,354.18,shopping,expense,online shopping
+2023-11-09,1483.24,gift,income,wedding gift
+2023-05-01,4182.73,salary,income,monthly salary
+2023-04-17,3618.87,salary,income,bonus
+2024-02-07,346.45,shopping,expense,clothes
+2023-06-24,294.83,transport,expense,taxi
+2023-02-04,224.47,entertainment,expense,games
+2024-05-03,1430.7,investment,income,crypto gain
+2023-11-15,141.9,bills,expense,rent
+2024-03-19,295.72,bills,expense,electricity
+2024-04-20,82.33,transport,expense,fuel
+2023-02-27,269.88,transport,expense,bus
+2023-10-09,1220.0,gift,income,wedding gift
+2023-11-11,118.42,health,expense,gym
+2023-06-03,498.72,bills,expense,rent
+2024-04-15,467.12,transport,expense,taxi
+2024-01-20,250.46,other,expense,miscellaneous
+2024-03-04,322.8,bills,expense,water
+2023-12-23,47.42,transport,expense,fuel
+2024-03-18,4233.53,investment,income,crypto gain
+2024-03-21,365.49,food,expense,cafe
+2023-07-05,169.03,shopping,expense,online shopping
+2023-09-05,377.6,transport,expense,fuel
+2023-03-23,129.64,shopping,expense,electronics
+2023-11-11,1428.83,investment,income,crypto gain
+2023-10-09,2565.23,other,income,miscellaneous
+2023-06-18,4187.25,investment,income,crypto gain
+2023-07-01,4072.54,investment,income,stock dividend
+2023-03-16,3146.48,salary,income,bonus
+2023-04-14,309.7,food,expense,restaurant
+2023-09-23,49.91,transport,expense,train
+2023-10-01,22.97,food,expense,snacks
+2023-04-02,3010.5,salary,income,bonus
+2023-01-25,294.35,entertainment,expense,subscription
+2024-01-30,2405.87,investment,income,crypto gain
+2024-01-20,213.76,transport,expense,train
+2024-05-19,3237.08,salary,income,monthly salary
+2023-06-13,209.18,health,expense,doctor
+2023-02-21,263.69,bills,expense,internet
+2023-03-12,4330.2,investment,income,crypto gain
+2023-01-23,3061.38,gift,income,birthday gift
+2023-08-06,1999.89,gift,income,birthday gift
+2023-07-31,4342.03,salary,income,monthly salary
+2023-02-22,190.35,food,expense,restaurant
+2023-09-25,4806.73,gift,income,birthday gift
+2023-07-24,370.2,shopping,expense,electronics
+2023-11-04,1589.79,salary,income,bonus
+2023-06-28,429.4,shopping,expense,clothes
+2024-03-04,145.7,entertainment,expense,games
+2024-03-23,1100.59,investment,income,stock dividend
+2024-03-01,270.91,other,expense,miscellaneous
+2023-06-27,472.13,bills,expense,water
+2024-01-27,3271.35,gift,income,birthday gift
+2023-02-11,32.62,other,expense,miscellaneous
+2023-03-01,88.99,transport,expense,train
+2024-02-01,2233.88,investment,income,stock dividend
+2023-03-14,3022.06,salary,income,bonus
+2023-07-25,2398.09,gift,income,wedding gift
+2023-09-27,4534.77,salary,income,bonus
+2023-04-10,4151.62,gift,income,birthday gift
+2023-09-11,2884.95,salary,income,bonus
+2023-05-17,2047.47,gift,income,wedding gift
+2023-09-16,257.57,transport,expense,taxi
+2024-04-13,3505.4,gift,income,birthday gift
+2024-04-17,1144.18,salary,income,bonus
+2023-12-16,48.47,health,expense,doctor
+2023-05-19,2468.29,other,income,miscellaneous
+2024-02-20,3531.84,investment,income,stock dividend
+2023-05-16,331.37,transport,expense,train
+2023-03-17,470.99,other,expense,miscellaneous
+2023-09-23,3778.3,investment,income,crypto gain
+2023-04-30,10.63,other,expense,miscellaneous
+2024-05-21,334.32,food,expense,groceries
+2023-04-18,173.07,health,expense,doctor
+2024-05-30,1341.51,gift,income,wedding gift
+2024-05-08,25.72,shopping,expense,clothes
+2024-01-08,172.81,bills,expense,rent
+2023-08-13,1897.23,investment,income,stock dividend
+2023-05-21,46.31,bills,expense,rent
+2024-03-11,2077.84,other,income,miscellaneous
+2023-08-15,231.07,bills,expense,water
+2023-11-03,222.33,bills,expense,water
+2023-03-04,2458.84,gift,income,birthday gift
+2023-06-27,136.89,other,expense,miscellaneous
+2024-02-28,172.08,bills,expense,rent
+2023-01-27,463.72,entertainment,expense,concert
+2024-03-10,3986.53,salary,income,bonus
+2024-02-27,91.41,health,expense,doctor
+2023-03-15,351.25,shopping,expense,electronics
+2023-02-12,154.89,transport,expense,train
+2023-10-29,481.6,bills,expense,electricity
+2023-07-25,360.3,health,expense,doctor
+2023-09-02,22.71,transport,expense,fuel
+2023-04-19,484.61,food,expense,snacks
+2023-07-02,434.31,bills,expense,rent
+2023-01-17,497.46,bills,expense,electricity
+2023-04-28,285.14,entertainment,expense,concert
+2023-06-22,452.9,bills,expense,rent
+2023-03-26,1315.73,investment,income,stock dividend
+2023-11-04,2046.62,gift,income,wedding gift
+2023-12-22,3694.55,other,income,miscellaneous
+2024-01-13,3972.03,salary,income,monthly salary
+2023-08-19,1337.63,gift,income,birthday gift
+2023-03-25,3916.51,investment,income,crypto gain
+2023-09-26,320.14,entertainment,expense,movie
+2024-04-10,99.82,transport,expense,taxi
+2023-02-03,3733.47,investment,income,crypto gain
+2024-05-21,2034.48,investment,income,crypto gain
+2023-08-09,3658.97,gift,income,birthday gift
+2023-02-03,2905.82,gift,income,wedding gift
+2023-01-27,1309.94,other,income,miscellaneous
+2023-01-02,1780.88,gift,income,wedding gift
+2024-03-18,441.39,bills,expense,electricity
+2023-08-20,209.48,entertainment,expense,games
+2023-02-21,1847.79,salary,income,monthly salary
+2023-06-19,309.78,other,expense,miscellaneous
+2024-02-25,61.23,food,expense,snacks
+2024-05-19,412.55,food,expense,groceries
+2024-04-07,256.62,food,expense,cafe
+2023-12-25,250.85,food,expense,restaurant
+2024-05-17,4609.18,investment,income,crypto gain
+2023-04-22,3501.13,investment,income,crypto gain
+2024-03-03,310.24,shopping,expense,clothes
+2023-12-17,205.01,shopping,expense,clothes
+2024-01-09,3320.73,other,income,miscellaneous
+2023-08-09,400.28,bills,expense,electricity
+2023-02-28,288.7,bills,expense,internet
+2023-05-17,1255.42,investment,income,stock dividend
+2023-04-21,324.66,transport,expense,train
+2024-03-29,4170.47,salary,income,bonus
+2024-05-04,2029.18,salary,income,bonus
+2024-05-29,1342.59,investment,income,stock dividend
+2023-05-06,4396.19,gift,income,birthday gift
+2023-06-23,74.86,health,expense,doctor
+2023-02-20,2075.61,gift,income,wedding gift
+2023-03-09,1785.16,salary,income,monthly salary
+2023-07-22,19.04,other,expense,miscellaneous
+2023-12-24,39.49,bills,expense,internet
+2023-04-09,3506.26,other,income,miscellaneous
+2024-02-21,3005.56,salary,income,monthly salary
+2023-04-03,175.27,health,expense,doctor
+2024-01-21,137.61,food,expense,snacks
+2023-10-28,85.65,health,expense,pharmacy
+2023-05-26,300.84,health,expense,doctor
+2023-08-18,167.0,shopping,expense,online shopping
+2024-01-01,269.56,health,expense,pharmacy
+2024-03-18,393.56,entertainment,expense,subscription
+2023-12-02,4633.53,gift,income,wedding gift
+2023-07-19,313.33,transport,expense,fuel
+2023-11-07,370.81,health,expense,gym
+2023-07-08,422.65,entertainment,expense,concert
+2023-04-11,498.93,shopping,expense,clothes
+2023-04-22,486.53,other,expense,miscellaneous
+2023-02-20,72.43,bills,expense,water
+2024-01-26,225.18,food,expense,restaurant
+2024-03-24,120.61,entertainment,expense,movie
+2024-04-28,62.13,other,expense,miscellaneous
+2023-07-29,3069.28,salary,income,monthly salary
+2023-08-25,3649.13,gift,income,birthday gift
+2024-05-31,449.19,entertainment,expense,concert
+2023-05-05,243.73,food,expense,cafe
+2023-03-27,4141.56,gift,income,birthday gift
+2024-05-28,3269.26,gift,income,birthday gift
+2023-07-10,65.9,transport,expense,fuel
+2024-04-22,1286.19,investment,income,stock dividend
+2023-10-07,2835.13,investment,income,stock dividend
+2023-08-08,51.86,bills,expense,internet
+2023-08-11,173.9,entertainment,expense,movie
+2023-03-01,2646.13,salary,income,bonus
+2024-04-25,465.23,shopping,expense,clothes
+2023-01-12,1640.91,gift,income,birthday gift
+2024-01-02,4435.64,investment,income,stock dividend
+2024-05-27,1468.45,gift,income,wedding gift
+2023-06-02,1384.85,gift,income,birthday gift
+2023-09-06,2543.75,salary,income,bonus
+2023-05-15,2202.95,investment,income,crypto gain
+2023-06-09,125.7,entertainment,expense,subscription
+2024-04-15,111.56,transport,expense,taxi
+2023-08-09,15.78,entertainment,expense,games
+2023-06-12,4239.59,other,income,miscellaneous
+2024-01-08,134.43,entertainment,expense,concert
+2023-02-18,2533.48,gift,income,birthday gift
+2023-06-13,3807.46,investment,income,crypto gain
+2024-03-06,285.07,food,expense,snacks
+2024-04-10,320.27,food,expense,restaurant
+2023-12-29,3335.25,investment,income,stock dividend
+2023-12-05,62.15,food,expense,groceries
+2024-04-19,2286.72,gift,income,wedding gift
+2023-07-15,3216.85,salary,income,monthly salary
+2023-04-25,320.0,transport,expense,bus
+2024-05-28,4826.53,other,income,miscellaneous
+2023-04-18,468.48,food,expense,cafe
+2023-11-20,374.17,food,expense,restaurant
+2024-05-09,2322.14,gift,income,wedding gift
+2023-07-04,4971.33,investment,income,stock dividend
+2023-08-12,305.18,shopping,expense,online shopping
+2023-02-26,432.91,entertainment,expense,concert
+2023-04-21,2195.39,salary,income,monthly salary
+2024-03-28,11.04,food,expense,groceries
+2024-04-02,393.75,transport,expense,train
+2023-12-11,239.13,food,expense,groceries
+2023-08-19,132.01,other,expense,miscellaneous
+2024-03-03,4602.55,investment,income,stock dividend
+2023-08-05,1629.65,other,income,miscellaneous
+2023-04-09,298.59,transport,expense,taxi
+2023-12-04,3511.07,investment,income,crypto gain
+2023-03-16,321.31,bills,expense,water
+2023-06-07,148.46,bills,expense,electricity
+2023-04-11,219.1,bills,expense,rent
+2024-05-12,4705.31,salary,income,bonus
+2023-06-07,2824.29,gift,income,birthday gift
+2024-05-11,3072.25,investment,income,stock dividend
+2024-01-25,176.24,shopping,expense,clothes
+2023-03-12,3943.36,other,income,miscellaneous
+2024-03-11,4116.08,gift,income,wedding gift
+2023-07-12,110.67,health,expense,gym
+2023-03-03,72.05,bills,expense,internet
+2023-12-11,463.07,transport,expense,fuel
+2024-04-29,411.28,shopping,expense,electronics
+2024-02-01,107.52,shopping,expense,electronics
+2024-05-04,1335.55,investment,income,stock dividend
+2024-01-21,2490.84,other,income,miscellaneous
+2023-06-25,1241.83,investment,income,crypto gain
+2024-01-13,174.82,shopping,expense,online shopping
+2023-06-25,162.35,shopping,expense,online shopping
+2023-09-14,64.66,shopping,expense,electronics
+2024-02-02,383.25,entertainment,expense,subscription
+2023-11-03,336.94,entertainment,expense,movie
+2023-11-02,304.73,bills,expense,internet
+2023-01-05,164.56,shopping,expense,electronics
+2024-02-01,58.04,other,expense,miscellaneous
+2023-07-24,1372.82,investment,income,stock dividend
+2024-02-10,2613.82,gift,income,birthday gift
+2023-09-14,211.77,transport,expense,fuel
+2023-12-11,231.57,bills,expense,rent
+2023-02-16,215.89,health,expense,gym
+2024-05-10,3746.78,investment,income,stock dividend
+2023-12-29,314.97,shopping,expense,clothes
+2023-12-16,189.29,health,expense,doctor
+2023-02-23,4917.58,investment,income,stock dividend
+2023-12-23,4581.19,investment,income,stock dividend
+2023-10-26,4797.04,gift,income,birthday gift
+2023-10-18,2617.19,investment,income,crypto gain
+2023-04-20,1506.39,gift,income,wedding gift
+2023-07-31,443.48,food,expense,restaurant
+2024-01-24,2111.57,investment,income,crypto gain
+2024-02-25,2154.21,gift,income,wedding gift
+2023-03-08,250.16,shopping,expense,online shopping
+2024-04-21,4967.07,gift,income,birthday gift
+2023-04-27,41.44,health,expense,doctor
+2024-01-29,480.39,food,expense,groceries
+2024-01-14,4971.4,gift,income,birthday gift
+2023-05-11,143.95,transport,expense,train
+2023-12-04,444.31,shopping,expense,clothes
+2023-07-27,4433.45,investment,income,stock dividend
+2024-04-08,4987.86,investment,income,crypto gain
+2024-05-21,272.69,bills,expense,rent
+2023-10-31,4238.83,gift,income,birthday gift
+2023-05-12,486.78,transport,expense,fuel
+2024-02-13,435.08,transport,expense,bus
+2023-07-05,2592.97,gift,income,wedding gift
+2023-07-01,3102.07,salary,income,bonus
+2024-06-01,85.64,other,expense,miscellaneous
+2023-08-07,286.57,transport,expense,taxi
+2023-12-25,55.98,entertainment,expense,games
+2023-10-19,4272.25,other,income,miscellaneous
+2024-05-22,352.22,bills,expense,internet
+2023-06-10,390.16,transport,expense,fuel
+2024-04-08,380.07,food,expense,restaurant
+2023-01-22,323.13,bills,expense,electricity
+2023-02-19,135.91,transport,expense,train
+2024-03-02,4075.8,gift,income,birthday gift
+2023-04-09,18.19,shopping,expense,clothes
+2024-02-13,2223.3,gift,income,birthday gift
+2023-01-12,4901.66,salary,income,monthly salary
+2023-07-06,88.49,health,expense,gym
+2024-01-21,103.4,other,expense,miscellaneous
+2023-07-12,353.28,bills,expense,water
+2023-04-13,390.27,transport,expense,train
+2024-02-18,237.51,bills,expense,water
+2023-12-25,373.43,other,expense,miscellaneous
+2023-10-12,324.23,food,expense,groceries
+2023-02-03,110.2,shopping,expense,clothes
+2024-04-24,33.18,entertainment,expense,subscription
+2024-05-10,1411.82,gift,income,birthday gift
+2024-05-02,479.87,health,expense,doctor
+2023-01-28,425.33,entertainment,expense,subscription
+2023-04-06,2421.44,investment,income,crypto gain
+2023-03-30,3402.75,investment,income,stock dividend
+2023-04-11,490.08,health,expense,pharmacy
+2024-03-26,1990.69,gift,income,birthday gift
+2023-07-25,20.85,shopping,expense,clothes
+2023-12-25,4553.95,investment,income,crypto gain
+2024-02-21,56.59,entertainment,expense,concert
+2024-02-09,2613.64,gift,income,wedding gift
+2023-11-27,489.14,health,expense,doctor
+2023-12-07,4043.41,other,income,miscellaneous
+2023-07-17,232.15,health,expense,doctor
+2023-07-04,90.7,shopping,expense,clothes
+2023-07-13,387.91,transport,expense,train
+2023-08-15,477.44,bills,expense,water
+2023-02-05,3820.96,gift,income,birthday gift
+2023-04-09,148.78,entertainment,expense,subscription
+2023-11-02,1713.02,gift,income,birthday gift
+2023-12-16,350.04,entertainment,expense,games
+2023-10-14,89.04,health,expense,pharmacy
+2024-03-04,358.41,health,expense,doctor
+2024-02-02,1551.27,salary,income,bonus
+2023-03-29,1193.16,salary,income,bonus
+2023-01-09,364.44,bills,expense,electricity
+2024-01-31,195.62,food,expense,restaurant
+2023-08-03,243.33,health,expense,doctor
+2023-05-18,2108.02,investment,income,crypto gain
+2024-05-19,489.19,entertainment,expense,subscription
+2024-04-29,61.64,health,expense,pharmacy
+2023-03-31,3922.28,salary,income,bonus
+2023-11-14,302.68,food,expense,restaurant
+2023-10-16,3014.88,gift,income,birthday gift
+2023-11-23,297.56,shopping,expense,online shopping
+2023-07-30,24.87,bills,expense,rent
+2023-09-21,407.88,health,expense,gym
+2023-06-09,420.58,bills,expense,electricity
+2024-01-19,4875.46,gift,income,wedding gift
+2024-01-02,207.16,bills,expense,water
+2024-04-19,302.82,entertainment,expense,concert
+2024-01-08,380.76,food,expense,snacks
+2023-03-08,2526.18,investment,income,crypto gain
+2023-06-16,234.44,entertainment,expense,concert
+2023-03-23,60.49,shopping,expense,online shopping
+2024-04-14,359.57,health,expense,gym
+2023-08-28,28.63,bills,expense,internet
+2023-03-06,4577.94,investment,income,stock dividend
+2023-05-29,415.03,transport,expense,fuel
+2023-02-19,235.39,shopping,expense,electronics
+2023-05-03,76.64,entertainment,expense,games
+2023-07-30,314.98,other,expense,miscellaneous
+2023-11-11,241.81,shopping,expense,clothes
+2023-10-18,177.88,entertainment,expense,games
+2023-08-06,2534.62,gift,income,birthday gift
+2023-07-19,1367.16,gift,income,wedding gift
+2023-05-30,3717.76,investment,income,crypto gain
+2023-08-28,1455.27,investment,income,crypto gain
+2024-04-04,183.35,entertainment,expense,games
+2023-02-25,103.37,other,expense,miscellaneous
+2023-02-20,1648.37,salary,income,monthly salary
+2024-02-21,1483.89,investment,income,stock dividend
+2023-03-07,92.38,food,expense,cafe
+2023-01-15,3014.98,investment,income,crypto gain
+2023-02-19,3534.14,gift,income,birthday gift
+2023-12-12,113.84,health,expense,doctor
+2023-03-02,453.76,health,expense,doctor
+2023-09-03,51.72,food,expense,groceries
+2023-12-30,89.25,transport,expense,taxi
+2023-11-04,215.23,entertainment,expense,movie
+2024-03-05,4584.97,gift,income,wedding gift
+2023-11-23,376.41,entertainment,expense,games
+2023-03-17,4897.01,salary,income,bonus
+2023-06-06,3987.76,gift,income,birthday gift
+2023-11-08,182.47,shopping,expense,clothes
+2023-10-18,361.93,transport,expense,fuel
+2023-03-30,1609.79,salary,income,bonus
+2023-03-01,31.18,food,expense,groceries
+2024-06-01,235.72,bills,expense,internet
+2023-10-12,480.21,transport,expense,taxi
+2023-09-21,281.27,transport,expense,taxi
+2024-03-22,391.83,transport,expense,bus
+2024-02-17,48.58,bills,expense,rent
+2023-10-31,415.91,other,expense,miscellaneous
+2023-09-24,1679.1,gift,income,birthday gift
+2023-05-09,4461.54,other,income,miscellaneous
+2024-01-13,4764.71,salary,income,monthly salary
+2023-09-07,369.76,other,expense,miscellaneous
+2023-05-19,2076.63,gift,income,birthday gift
+2023-04-11,290.68,health,expense,gym
+2023-06-14,364.04,bills,expense,rent
+2024-05-22,217.65,shopping,expense,online shopping
+2023-01-25,200.37,transport,expense,bus
+2023-04-15,295.41,health,expense,pharmacy
+2023-09-01,130.17,food,expense,groceries
+2023-05-12,395.88,shopping,expense,electronics
+2023-03-15,259.64,entertainment,expense,concert
+2024-04-29,382.69,health,expense,doctor
+2024-05-22,51.12,health,expense,pharmacy
+2023-12-08,444.12,bills,expense,rent
+2023-12-30,3511.67,gift,income,birthday gift
+2023-10-09,2740.68,salary,income,monthly salary
+2023-12-26,313.46,transport,expense,train
+2023-05-19,118.27,health,expense,pharmacy
+2023-10-31,3611.45,investment,income,crypto gain
+2023-07-27,4609.62,salary,income,bonus
+2023-10-12,4556.75,other,income,miscellaneous
+2023-10-08,143.9,health,expense,doctor
+2023-11-09,1106.62,salary,income,monthly salary
+2023-02-10,193.09,health,expense,gym
+2023-03-11,2620.73,investment,income,crypto gain
+2023-01-12,246.21,other,expense,miscellaneous
+2023-09-08,113.14,shopping,expense,online shopping
+2024-05-01,128.31,food,expense,groceries
+2024-05-19,3570.31,salary,income,bonus
+2023-07-08,334.59,shopping,expense,clothes
+2024-02-20,100.85,bills,expense,rent
+2023-05-26,255.23,bills,expense,internet
+2023-09-01,100.7,transport,expense,taxi
+2023-05-30,179.14,entertainment,expense,subscription
+2023-10-29,1082.13,gift,income,wedding gift
+2023-05-27,216.5,entertainment,expense,concert
+2023-12-13,3136.7,investment,income,stock dividend
+2023-12-12,99.32,transport,expense,fuel
+2023-05-24,372.57,bills,expense,electricity
+2023-05-16,136.98,food,expense,groceries
+2024-05-02,4090.99,gift,income,birthday gift
+2024-03-14,422.56,transport,expense,taxi
+2023-07-19,32.49,health,expense,doctor
+2024-05-15,20.67,entertainment,expense,movie
+2023-03-21,1004.43,salary,income,monthly salary
+2024-01-02,459.72,entertainment,expense,movie
+2023-09-13,1774.53,salary,income,bonus
+2023-06-28,2285.49,other,income,miscellaneous
+2023-03-25,73.27,food,expense,cafe
+2023-10-28,307.7,entertainment,expense,movie
+2023-03-23,1126.38,other,income,miscellaneous
+2023-04-04,11.5,transport,expense,bus
+2023-09-03,135.54,entertainment,expense,subscription
+2023-12-09,354.38,bills,expense,water
+2023-08-05,352.28,food,expense,restaurant
+2023-05-11,337.78,food,expense,groceries
+2023-05-06,152.19,other,expense,miscellaneous
+2024-05-01,345.13,transport,expense,bus
+2024-02-28,188.75,health,expense,gym
+2024-04-27,279.63,entertainment,expense,subscription
+2023-06-09,51.72,bills,expense,rent
+2024-01-09,211.54,health,expense,doctor
+2024-04-23,60.3,shopping,expense,electronics
+2023-04-18,375.98,food,expense,snacks
+2024-04-01,3801.67,other,income,miscellaneous
+2023-05-13,296.74,bills,expense,internet
+2024-03-10,440.63,shopping,expense,electronics
+2023-11-22,1786.25,salary,income,monthly salary
+2023-08-25,370.06,entertainment,expense,concert
+2024-05-12,4946.43,investment,income,stock dividend
+2024-05-26,86.63,entertainment,expense,concert
+2024-01-07,197.08,shopping,expense,electronics
+2024-04-05,273.02,health,expense,gym
+2023-11-26,477.92,transport,expense,train
+2023-05-27,47.25,food,expense,restaurant
+2023-07-08,434.23,transport,expense,fuel
+2023-09-14,119.72,transport,expense,bus
+2023-08-18,260.24,bills,expense,water
+2024-02-13,4418.77,salary,income,bonus
+2024-04-29,259.4,shopping,expense,clothes
+2024-01-18,2109.16,investment,income,crypto gain
+2024-03-04,3912.68,investment,income,stock dividend
+2023-10-22,3423.02,gift,income,wedding gift
+2023-02-09,181.55,food,expense,groceries
+2023-08-19,430.76,bills,expense,rent
+2024-03-31,176.67,transport,expense,bus
+2024-02-27,1816.49,gift,income,wedding gift
+2024-05-07,41.73,entertainment,expense,games
+2024-02-17,4788.3,salary,income,monthly salary
+2023-04-16,3926.05,gift,income,wedding gift
+2023-07-11,404.15,other,expense,miscellaneous
+2024-04-07,2290.61,investment,income,stock dividend
+2024-03-21,2111.01,other,income,miscellaneous
+2023-07-17,2376.24,investment,income,crypto gain
+2023-08-02,1935.63,salary,income,monthly salary
+2023-01-26,2611.12,investment,income,crypto gain
+2023-01-03,3815.69,investment,income,stock dividend
+2023-07-30,445.77,entertainment,expense,subscription
+2024-02-26,21.11,shopping,expense,electronics
+2024-05-22,432.59,entertainment,expense,games
+2024-05-22,144.11,entertainment,expense,subscription
+2023-12-05,119.89,food,expense,cafe
+2023-07-17,3967.99,other,income,miscellaneous
+2023-07-20,182.23,shopping,expense,clothes
+2023-06-20,312.32,health,expense,gym
+2024-03-27,164.88,food,expense,restaurant
+2023-12-14,291.75,bills,expense,water
+2023-04-28,1635.61,investment,income,crypto gain
+2023-06-24,3931.36,salary,income,monthly salary
+2024-01-08,3978.99,salary,income,bonus
+2023-04-27,2218.9,salary,income,bonus
+2023-05-06,356.67,entertainment,expense,movie
+2023-08-29,4318.74,gift,income,birthday gift
+2023-06-05,1307.14,salary,income,bonus

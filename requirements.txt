@@ -1,0 +1,6 @@
+dateparser
+rapidfuzz
+pyspellchecker
+textblob
+sentence-transformers
+torch 
